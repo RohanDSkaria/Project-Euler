@@ -1,0 +1,1 @@
+{"name":"Local: 886_coprimePermutations","url":"c:\\Coding\\Project Euler\\886_coprimePermutations.cpp","tests":[{"id":1713203551527,"input":"10","output":"576"},{"id":1713204838824,"input":"34","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Coding\\Project Euler\\886_coprimePermutations.cpp","group":"local","local":true}
